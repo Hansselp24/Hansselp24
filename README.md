@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Hansselp24 and so student too.
-- 👀 I’m interested in developer web and data engineer.
-- 🌱 I’m currently learning abaout Crypto.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m @Hansselp24 and so student too.
+-  I’m interested in developer web and data engineer.
+-  I am learning about HTML, CSS and JS. To be able to become a professional developer.
+-  Learn about Blockchain technology.
+-  Sports such as football and athletics.
 
-<!---
-Hansselp24/Hansselp24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
